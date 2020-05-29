@@ -1,4 +1,4 @@
-# Multiuser-Chat
+# Reader-Writer-Problem
 The reader-writer problem is implemented using operations on a queue. Multiple readers can read at the same time. However they can not read the element being written to by the writer. Also during dequeue by the reader no reader can access that element. This is implemented using mutex locks.
 
 Compiling: Just run the Makefile.
