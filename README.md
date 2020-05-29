@@ -10,7 +10,7 @@ Input: Enter the number of writers you want.
 Output: The whole execution sequence will be displayed.
 
 Errors Handled: 
-1) The user needs to enter integer for the number of writers.\n
+1) The user needs to enter integer for the number of writers.
 2) The number should be positive.
 
 References: https://www.softprayog.in/programming/queue-implementation-in-c-using-linked-list
